@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_YoRipe Junior Chef Indonesia Season 4</name>
+   <tag></tag>
+   <elementGuidId>8f59ee49-380a-4ae0-9103-fab24c16c9ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>46775961-b7fa-4f9f-a701-afc83435ecde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>2580f1a4-ab6d-48df-86f9-8df3cc0c0d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-link header-nav</value>
+      <webElementGuid>8db2fcdc-d554-45a0-a746-442df66856a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/juniorchefIDseason4</value>
+      <webElementGuid>a539a967-074c-4ad1-806d-388cc3a13b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YoRipe Junior Chef Indonesia Season 4</value>
+      <webElementGuid>2f4106f7-91f1-4826-b9c5-ccd3bf10b847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;position-relative root-inner-wrapper&quot;]/div[@class=&quot;topbar-wrapper-container&quot;]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;web-only&quot;]/div[@class=&quot;topbar-container-tabs&quot;]/div[@class=&quot;invis-scroll header-nav-wrapper&quot;]/div[@class=&quot;header-nav-container&quot;]/a[@class=&quot;no-link header-nav&quot;]</value>
+      <webElementGuid>213c859a-2660-41a3-9548-2dcf9a88db96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div[7]/a</value>
+      <webElementGuid>2770dfa7-3fd6-466a-8a57-40d9cc100093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grup'])[1]/following::a[1]</value>
+      <webElementGuid>7687ee88-ace4-4822-8d36-a38f4dabe9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acara'])[1]/following::a[2]</value>
+      <webElementGuid>1201afc6-827b-4910-bdcf-834cbcbdf0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/preceding::a[1]</value>
+      <webElementGuid>dc5d08a3-a584-454e-826e-448a7eca9685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/juniorchefIDseason4')]</value>
+      <webElementGuid>1ef6cf1e-dc20-4809-b27a-d67b3251d98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a</value>
+      <webElementGuid>f90924ad-11c3-4433-8b5a-6d7c89480531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/juniorchefIDseason4' and (text() = 'YoRipe Junior Chef Indonesia Season 4' or . = 'YoRipe Junior Chef Indonesia Season 4')]</value>
+      <webElementGuid>287f0468-655f-4554-b7c3-85ceecf184de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tantangan Seru</name>
+   <tag></tag>
+   <elementGuidId>e4569612-2923-4ef3-a476-9356fdd9820d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0a7540d3-08ad-4ccc-9b8e-0f5200129ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>prev</value>
+      <webElementGuid>6d7bc776-9c46-4ac6-a7ed-2c14beebff13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-link header-nav</value>
+      <webElementGuid>844616c4-4e72-481e-a6c2-0448b64c2e71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/challenges</value>
+      <webElementGuid>23f9bab5-641b-48d9-a60c-87f4030bd009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tantangan Seru</value>
+      <webElementGuid>69786a4a-4ec4-4a7f-8836-eb44e9292f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;position-relative root-inner-wrapper&quot;]/div[@class=&quot;topbar-wrapper-container&quot;]/div[@class=&quot;topbar-container&quot;]/div[@class=&quot;web-only&quot;]/div[@class=&quot;topbar-container-tabs&quot;]/div[@class=&quot;invis-scroll header-nav-wrapper&quot;]/div[@class=&quot;header-nav-container&quot;]/a[@class=&quot;no-link header-nav&quot;]</value>
+      <webElementGuid>1c7ce8ab-e610-4a62-b8ee-c731f38d6139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/div/div/div[4]/a</value>
+      <webElementGuid>a7a78239-c603-46dd-978a-873938ee3856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIVE'])[1]/following::a[1]</value>
+      <webElementGuid>44d0a8ea-f220-4358-b1ce-6ec50943cb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resep'])[1]/following::a[2]</value>
+      <webElementGuid>9ff52216-df42-4e7e-8a09-409a628ef582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acara'])[1]/preceding::a[1]</value>
+      <webElementGuid>3be672a5-577d-4d96-91b4-6623ae691695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/challenges')]</value>
+      <webElementGuid>a2aecf69-1587-41ab-9c3e-2e7430922909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>3455f18f-93b0-4151-9491-06e00fb5a64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/challenges' and (text() = 'Tantangan Seru' or . = 'Tantangan Seru')]</value>
+      <webElementGuid>0708ebfd-ff49-4264-a495-79cd69c8a8a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

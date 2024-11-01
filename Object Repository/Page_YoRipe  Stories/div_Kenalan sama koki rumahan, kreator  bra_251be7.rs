@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kenalan sama koki rumahan, kreator  bra_251be7</name>
+   <tag></tag>
+   <elementGuidId>6d651f32-cdab-420e-9bb0-c7c9b4b6ecb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>aside.invis-scroll.feed-side-wrapper > div.yoripe-intro</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/aside/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df7488ee-c3dc-4da3-bc13-f4051ac80444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yoripe-intro</value>
+      <webElementGuid>0854126e-5080-4692-b99b-8ee001ac07ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kenalan sama koki rumahan, kreator &amp; brand yang seminat denganmu!Temukan lebih dari 10 ribu resep koki rumahanGabung grup untuk berbagi &amp; belajar barengIkuti tantangan &amp; acara, menangkan hadiah</value>
+      <webElementGuid>85cbb669-44ad-42a3-ad3a-6acc49c9c194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;position-relative root-inner-wrapper&quot;]/main[@class=&quot;page-wrap&quot;]/div[@class=&quot;invis-scroll page-container&quot;]/aside[@class=&quot;invis-scroll feed-side-wrapper&quot;]/div[@class=&quot;yoripe-intro&quot;]</value>
+      <webElementGuid>370179b5-1da5-46d9-b2ca-74cf53a7644d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/aside/div</value>
+      <webElementGuid>8730cc16-4a1b-436c-ab93-460840289fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh YoRipe'])[1]/following::div[1]</value>
+      <webElementGuid>35e4e954-dfe8-4f8e-bf77-f266f3cb11f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membagikan masakan anda kepada komunitas'])[1]/following::div[1]</value>
+      <webElementGuid>47255972-6987-4186-a98f-3c37918fcea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div</value>
+      <webElementGuid>456b3427-fd43-46f9-8d7b-c50c5856850e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kenalan sama koki rumahan, kreator &amp; brand yang seminat denganmu!Temukan lebih dari 10 ribu resep koki rumahanGabung grup untuk berbagi &amp; belajar barengIkuti tantangan &amp; acara, menangkan hadiah' or . = 'Kenalan sama koki rumahan, kreator &amp; brand yang seminat denganmu!Temukan lebih dari 10 ribu resep koki rumahanGabung grup untuk berbagi &amp; belajar barengIkuti tantangan &amp; acara, menangkan hadiah')]</value>
+      <webElementGuid>87f154a4-90eb-41ae-a4b5-50a57fca9d55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
